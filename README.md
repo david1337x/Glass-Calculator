@@ -22,3 +22,7 @@ A visually stunning calculator app built with React, Tailwind CSS, and Framer Mo
 - Keyboard support
 - Sound effects (mutable)
 - Framer Motion animations
+
+## Contact
+
+Your Name - [David.](https://instagram.com/davidalwaysdoesitbetter) - contact@dav1337.com
